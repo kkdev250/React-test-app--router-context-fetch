@@ -1,0 +1,5 @@
+demo app with:
+-simple Todo page (form & list),
+-global state management (Context),
+-navigation (react router),
+-fetching data from API
